@@ -1,0 +1,9 @@
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\bin\Debug\BrotliBackup.exe
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\bin\Debug\BrotliBackup.pdb
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.exe
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.pdb
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.Forms.FrmMain.resources
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\renat\source\repos\BrotliBackup\BrotliBackup\obj\Debug\BrotliBackup.csproj.CopyComplete
